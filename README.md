@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management System-  main
 
 ## 📌 Project Description
 This is a simple Student Management System built using HTML, CSS, and JavaScript.  
