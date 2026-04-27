@@ -1,4 +1,4 @@
-# Student Management System-  main
+# Student Management System-  feuture-login
 
 ## 📌 Project Description
 This is a simple Student Management System built using HTML, CSS, and JavaScript.  
